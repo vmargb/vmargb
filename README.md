@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align=center>vmargb</h1>
+<strong>Hi!</strong>
 
-<!--
-**vmargb/vmargb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br  />
+<br  />
 
-Here are some ideas to get you started:
+<p>I am a Computer Science and AI graduate studying Aritificial Intelligence for fun. I'm also a hobbyist programmer that works on cool open-source projects, feel free to look around!<br  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br  />
+
+<h3>
+<pre>
+//-----------------------------------------\\
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My currently maintained projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+\\-----------------------------------------//
+</pre>
+</h3>
+   
+<h4>1. <a href="">Anki 2.0 (coming soon!)</a> ☆</h4>
+<table>
+   <tr>
+      <td width="70%">
+         I am currently working on a better alternative to the anki-droid app on android. This will be a spaced-repetition app but with additional new features and core changes that I personally felt like was missing from Anki.
+      </td>
+      <td width="30%">
+         <img align=center src="" alt="" />
+      </td>
+   </tr>
+</table>
+
+
+
+<h4>2. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
+<table>
+   <tr>
+      <td width="70%">
+         A Firefox extension to help you navigate through your links without hopping back and forth with the page-rank algorithm.
+      </td>
+      <td width="30%">
+         <img align=center src="" alt="Preview of Lookahead" />
+      </td>
+   </tr>
+</table>
+
+<h4>3. <a href="https://github.com/vmargb/funcy.nvim">funcy.nvim</a></h4>
+<table>
+   <tr>
+      <td width="70%">
+         A neovim plugin that uses LSP and Regex to dynamically create function and class declarations for you. Similar to the same feature in Jetbrains IDE's
+      </td>
+      <td width="30%">
+         <img align=center src="" alt="Preview of funcy.nvim" />
+      </td>
+   </tr>
+</table>
+
+<h4>4. <a href="https://github.com/vmargb/nixos-config">funcy.nvim</a></h4>
+<table>
+   <tr>
+      <td width="70%">
+         My NixOS system and user level configuration using Flakes and Home-Manager.
+      </td>
+      <td width="30%">
+         <img align=center src="" alt="Preview of NixOS" />
+      </td>
+   </tr>
+</table>
+
+<br  />
+
+<h3>
+<pre>
+//------------------------\\
+|&nbsp;&nbsp;&nbsp;Old College Projects&nbsp;&nbsp;&nbsp;|
+\\------------------------//
+</pre>
+</h3>
+
+<p>In my own time I've taken up several hobby projects, some of which are College projects or personal explorations.</p>
+<p>You can find some of these projects over at my older GitHub profile, or my website:</p>
+
+<ul>
+   <li><a href="https://vmargb.github.io/"><strong>Website</strong></a></li>
+   <li><a href="https://github.com/physicsKnight"><strong>Old GitHub</strong></a></li>
+</ul>
