@@ -54,7 +54,7 @@
    </tr>
 </table>
 
-<h4>4. <a href="https://github.com/vmargb/nixos-config">funcy.nvim</a></h4>
+<h4>4. <a href="https://github.com/vmargb/nixos-config">NixOS (w/ Flakes & HM)</a></h4>
 <table>
    <tr>
       <td width="70%">
