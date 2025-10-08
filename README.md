@@ -16,11 +16,11 @@
 </pre>
 </h3>
    
-<h4>1. <a href="">Anki 2.0 (coming soon!)</a> ☆</h4>
+<h4>1. <a href="https://github.com/vmargb/Myoso">Myoso (coming soon!)</a> ☆</h4>
 <table>
    <tr>
       <td width="70%">
-         I am currently working on a better alternative to the anki-droid app on android. This will be a spaced-repetition app but with additional new features and core changes that I personally felt like was missing from Anki.
+         I am currently working on a unique alternative to the anki-droid app on android. This will be a spaced-repetition app but with additional new features and core changes that I personally felt like was missing from Anki.
       </td>
       <td width="30%">
          <img align=center src="" alt="" />
@@ -80,6 +80,6 @@
 <p>You can find some of these projects over at my older GitHub profile, or my website:</p>
 
 <ul>
-   <li><a href="https://vmargb.github.io/"><strong>Website</strong></a></li>
    <li><a href="https://github.com/physicsKnight"><strong>Old GitHub</strong></a></li>
+   <li><a href="https://vmargb.github.io/"><strong>Website</strong></a></li>
 </ul>
