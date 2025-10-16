@@ -54,11 +54,19 @@
    </tr>
 </table>
 
-<h4>4. <a href="https://github.com/vmargb/nixos-config">NixOS (w/ Flakes & HM)</a></h4>
+<h3>
+<pre>
+//----------------------------------\\
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dotfiles & Configurations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+\\----------------------------------//
+</pre>
+</h3>
+
+<h4>1. <a href="https://github.com/vmargb/nixos-config">NixOS (w/ Flakes & HM)</a></h4>
 <table>
    <tr>
       <td width="70%">
-         My NixOS system and user level configuration using Flakes and Home-Manager.
+         My modular NixOS configuration using Flakes and Home-Manager.
       </td>
       <td width="30%">
          <img align=center src="" alt="Preview of NixOS" />
