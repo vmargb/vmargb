@@ -35,7 +35,7 @@
          A Firefox extension to help you navigate through your links without hopping back and forth with the page-rank algorithm.
       </td>
       <td width="30%">
-         <img align=center src="assets/lookahead.gif" alt="Preview of Lookahead" />
+         <img align=center src="lookahead.gif" alt="Preview of Lookahead" />
       </td>
    </tr>
 </table>
@@ -47,7 +47,7 @@
          A neovim plugin that uses LSP and Regex to dynamically create function and class declarations for you. Similar to the same feature in Jetbrains IDE's
       </td>
       <td width="30%">
-         <img align=center src="assets/funcy.gif" alt="Preview of funcy.nvim" />
+         <img align=center src="funcy.gif" alt="Preview of funcy.nvim" />
       </td>
    </tr>
 </table>
