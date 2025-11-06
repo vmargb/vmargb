@@ -4,7 +4,7 @@
 <br  />
 <br  />
 
-<p>I am a Computer Science and AI graduate studying Aritificial Intelligence for fun. I'm also a hobbyist programmer that works on cool open-source projects, feel free to look around!<br  />
+<p>I am a Computer Science and AI graduate that works on cool open-source projects in my free time, feel free to look around!<br  />
 
 <br  />
 
