@@ -87,5 +87,4 @@
 
 <ul>
    <li><a href="https://github.com/physicsKnight"><strong>Old GitHub</strong></a></li>
-   <li><a href="https://vmargb.github.io/"><strong>Website</strong></a></li>
 </ul>
