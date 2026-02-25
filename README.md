@@ -15,8 +15,20 @@
 \\-----------------------------------------//
 </pre>
 </h3>
+
+<h4>1. <a href="https://github.com/vmargb/parts-of-speech">Parts of Speech</a> ☆</h4>
+<table>
+   <tr>
+      <td width="70%">
+         A non-linear voice-over app written in Rust that lets you record your audio chunk by chunk with an improved workflow compared to traditional recording software. 
+      </td>
+      <td width="30%">
+         <img align=center src="" alt="" />
+      </td>
+   </tr>
+</table>
    
-<h4>1. <a href="https://github.com/vmargb/Myoso">Myoso (coming soon!)</a> ☆</h4>
+<h4>2. <a href="https://github.com/vmargb/Myoso">Myoso (coming soon!)</a> ☆</h4>
 <table>
    <tr>
       <td width="70%">
@@ -28,7 +40,7 @@
    </tr>
 </table>
 
-<h4>2. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
+<h4>3. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
 <table>
    <tr>
       <td width="70%">
@@ -40,7 +52,7 @@
    </tr>
 </table>
 
-<h4>3. <a href="https://github.com/vmargb/funcy.nvim">funcy.nvim</a></h4>
+<h4>4. <a href="https://github.com/vmargb/funcy.nvim">funcy.nvim</a></h4>
 <table>
    <tr>
       <td width="70%">
