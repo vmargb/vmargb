@@ -40,6 +40,18 @@
    </tr>
 </table>
 
+<h4>4. <a href="https://github.com/vmargb/arrow.el">arrow.el</a></h4>
+<table>
+   <tr>
+      <td width="70%">
+         An Emacs package implementation of arrow.nvim, designed to provide per-project and per-buffer bookmarks that are fully isolated and persistent in each session.
+      </td>
+      <td width="30%">
+         <img align=center src="arrow.png" alt="Preview of arrow.el" />
+      </td>
+   </tr>
+</table>
+
 <h4>3. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
 <table>
    <tr>
@@ -94,8 +106,8 @@
 </pre>
 </h3>
 
-<p>In my own time I've taken up several hobby projects, some of which are College projects or personal explorations.</p>
-<p>You can find some of these projects over at my older GitHub profile, or my website:</p>
+<p>In my own time I've taken up several hobby projects, most of which are old College projects.</p>
+<p>You can find some of these projects over at my older GitHub profile:</p>
 
 <ul>
    <li><a href="https://github.com/physicsKnight"><strong>Old GitHub</strong></a></li>
