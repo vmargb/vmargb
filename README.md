@@ -24,7 +24,7 @@
          A non-linear voice-over app written in Rust that lets you record your audio chunk by chunk with an improved workflow compared to traditional recording software. 
       </td>
       <td width="30%">
-         <img align=center src="" alt="" />
+         <img align=center src="pos.png" alt="parts of speech image" />
       </td>
    </tr>
 </table>
