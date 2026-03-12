@@ -48,7 +48,7 @@
          An Emacs package implementation of arrow.nvim, designed to provide per-project and per-buffer bookmarks that are fully isolated and persistent in each session.
       </td>
       <td width="30%">
-         <img align=center src="arrow.png" alt="Preview of arrow.el" />
+         <img align=center src="arrow-project.png" alt="Preview of arrow.el" />
       </td>
    </tr>
 </table>
