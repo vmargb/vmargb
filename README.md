@@ -41,7 +41,7 @@
    </tr>
 </table>
 
-<h4>4. <a href="https://github.com/vmargb/arrow.el">arrow.el</a></h4>
+<h4>3. <a href="https://github.com/vmargb/arrow.el">arrow.el</a></h4>
 <table>
    <tr>
       <td width="70%">
@@ -53,7 +53,7 @@
    </tr>
 </table>
 
-<h4>3. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
+<h4>4. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
 <table>
    <tr>
       <td width="70%">
@@ -65,7 +65,7 @@
    </tr>
 </table>
 
-<h4>4. <a href="https://github.com/vmargb/funcy.nvim">funcy.nvim</a></h4>
+<h4>5. <a href="https://github.com/vmargb/funcy.nvim">funcy.nvim</a></h4>
 <table>
    <tr>
       <td width="70%">
