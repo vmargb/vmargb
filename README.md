@@ -5,6 +5,7 @@
 <br  />
 
 <p>I am a Computer Science and AI graduate that works on cool open-source projects in my free time, feel free to look around!<br  />
+<p>Support me over at <a href="https://ko-fi.com/vmargb" style="text-decoration: none; color: #FF5E5B;">ko-fi!</a></p>
 
 <br  />
 
