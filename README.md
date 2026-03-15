@@ -5,6 +5,12 @@
 <br  />
 
 <p>I am a Computer Science and AI graduate that works on cool open-source projects in my free time, feel free to look around!<br  />
+<ul>
+   <li>I'm currently learning Haskell, Rust and Go</li>
+   <li>I'm interested in functional programming & lambda calculus</li>
+   <li>My favorite editor is Emacs (w/ Evil)</li>
+</ul>
+<br  />
 <p>Support me over at <a href="https://ko-fi.com/vmargb" style="text-decoration: none; color: #FF5E5B;">ko-fi!</a></p>
 
 <br  />
