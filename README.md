@@ -35,14 +35,14 @@
    </tr>
 </table>
    
-<h4>2. <a href="https://github.com/vmargb/Myoso">Myoso (coming soon!)</a> ☆</h4>
+<h4>2. <a href="https://github.com/vmargb/Myoso">Myoso</a> ☆</h4>
 <table>
    <tr>
       <td width="70%">
-         I am currently working on a unique alternative to the anki-droid app on android. This will be a spaced-repetition app but with additional new features and core changes that I personally felt like was missing from Anki.
+         I am currently working on a unique alternative to the anki app android. This will be a flashcard app but with additional new features such as step-by-step chain reasoning with spaced-repetition.
       </td>
       <td width="30%">
-         <img align=center src="" alt="" />
+         <img align=center src="myoso.png" alt="myoso-menu" />
       </td>
    </tr>
 </table>
