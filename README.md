@@ -39,7 +39,7 @@
 <table>
    <tr>
       <td width="70%">
-         I am currently working on a unique alternative to the anki app android. This will be a flashcard app but with additional new features such as step-by-step chain reasoning with spaced-repetition.
+         A unique alternative to the anki app on android. This is a TUI based flashcard app with additional features such as step-by-step chain of thought reasoning with spaced-repetition.
       </td>
       <td width="30%">
          <img align=center src="myoso.png" alt="myoso-menu" />
@@ -51,7 +51,7 @@
 <table>
    <tr>
       <td width="70%">
-         An Emacs package implementation of arrow.nvim, designed to provide per-project and per-buffer bookmarks that are fully isolated and persistent in each session.
+         An Emacs package implementation of arrow.nvim, designed to provide global, per-project, and per-buffer bookmarks that are fully isolated and persistent in memory.
       </td>
       <td width="30%">
          <img align=center src="arrow-project.png" alt="Preview of arrow.el" />
@@ -63,7 +63,7 @@
 <table>
    <tr>
       <td width="70%">
-         A Firefox extension to help you navigate through your links without hopping back and forth with the page-rank algorithm.
+         A Firefox extension to help you find any website with its own scoring algorithm and a floating "picker" to quick-switch between your links.
       </td>
       <td width="30%">
          <img align=center src="lookahead.gif" alt="Preview of Lookahead" />
