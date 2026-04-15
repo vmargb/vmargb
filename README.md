@@ -47,7 +47,10 @@
    </tr>
 </table>
 
-<h4>3. <a href="https://github.com/vmargb/arrow.el">arrow.el</a></h4>
+//-----------------------------------------\\
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plugins & Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+\\-----------------------------------------//
+<h4>1. <a href="https://github.com/vmargb/arrow.el">arrow.el</a></h4>
 <table>
    <tr>
       <td width="70%">
@@ -59,7 +62,19 @@
    </tr>
 </table>
 
-<h4>4. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
+<h4>2. <a href="https://github.com/vmargb/project-x">project-x</a></h4>
+<table>
+   <tr>
+      <td width="70%">
+         Ehancements to Emacs' built in project.el library that lets you write and persist project sessions to disk and dynamically restore them just as you left them.
+      </td>
+      <td width="30%">
+         <img align=center src="project-x.gif" alt="Preview of project-x" />
+      </td>
+   </tr>
+</table>
+
+<h4>3. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
 <table>
    <tr>
       <td width="70%">
@@ -71,7 +86,7 @@
    </tr>
 </table>
 
-<h4>5. <a href="https://github.com/vmargb/funcy.nvim">funcy.nvim</a></h4>
+<h4>4. <a href="https://github.com/vmargb/funcy.nvim">funcy.nvim</a></h4>
 <table>
    <tr>
       <td width="70%">
