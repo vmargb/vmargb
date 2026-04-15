@@ -114,7 +114,7 @@
 <table>
    <tr>
       <td width="70%">
-         My modular NixOS configuration using Flakes and Home-Manager.
+         My dendritic NixOS configuration using Flakes and Home-Manager.
       </td>
       <td width="30%">
          <img align=center src="" alt="Preview of NixOS" />
