@@ -47,9 +47,13 @@
    </tr>
 </table>
 
+<h3>
+<pre>
 //-----------------------------------------\\
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Plugins & Packages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Plugins & Packages       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 \\-----------------------------------------//
+</pre>
+</h3>
 <h4>1. <a href="https://github.com/vmargb/arrow.el">arrow.el</a></h4>
 <table>
    <tr>
