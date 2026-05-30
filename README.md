@@ -1,140 +1,71 @@
-<h1 align=center>vmargb</h1>
-<strong>Hi!</strong>
+<div align="center">
+  <h1>vmargb</h1>
+  <p>
+    <em>Computer Science & AI graduate • Functional programming enthusiast • Open-source software</em>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/learning-Haskell%20%7C%20Rust%20%7C%20Go-blue?style=flat-square" alt="Learning">
+    <img src="https://img.shields.io/badge/editor-Emacs+%2B%20Evil-9cf?style=flat-square&logo=gnuemacs" alt="Editor">
+    <img src="https://img.shields.io/badge/interests-FP%20%7C%20Lambda%20Calculus-purple?style=flat-square" alt="Interests">
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=vmargb&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  </p>
+</div>
 
-<br  />
-<br  />
+---
 
-<p>I am a Computer Science and AI graduate that works on cool open-source projects in my free time, feel free to look around!<br  />
-<ul>
-   <li>I'm currently learning Haskell, Rust and Go</li>
-   <li>I'm interested in functional programming & lambda calculus</li>
-   <li>My favorite editor is Emacs (w/ Evil)</li>
-</ul>
-<br  />
-<p>Support me over at <a href="https://ko-fi.com/vmargb" style="text-decoration: none; color: #FF5E5B;">ko-fi!</a></p>
+## Currently Maintained Projects
 
-<br  />
+### [Parts of Speech](https://github.com/vmargb/parts-of-speech)
+> A non-linear voice-over app written in **Rust** that uses a recording booth workflow, letting you record audio chunk-by-chunk.
 
-<h3>
-<pre>
-//-----------------------------------------\\
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My currently maintained projects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-\\-----------------------------------------//
-</pre>
-</h3>
+<!--
+<div align="center">
+  <img src="pos.png" alt="Parts of Speech preview" width="400" />
+</div>-->
 
-<h4>1. <a href="https://github.com/vmargb/parts-of-speech">Parts of Speech</a> ☆</h4>
-<table>
-   <tr>
-      <td width="70%">
-         A non-linear voice-over app written in Rust that lets you record your audio chunk by chunk with an improved workflow compared to traditional recording software. 
-      </td>
-      <td width="30%">
-         <img align=center src="pos.png" alt="parts of speech image" />
-      </td>
-   </tr>
-</table>
-   
-<h4>2. <a href="https://github.com/vmargb/Myoso">Myoso</a> ☆</h4>
-<table>
-   <tr>
-      <td width="70%">
-         A unique alternative to the anki app on android. This is a TUI based flashcard app with additional features such as step-by-step chain of thought reasoning with spaced-repetition.
-      </td>
-      <td width="30%">
-         <img align=center src="myoso.png" alt="myoso-menu" />
-      </td>
-   </tr>
-</table>
+### [Myoso](https://github.com/vmargb/Myoso)
+> A TUI-based spaced repetition flashcard app with chain-of-thought problem solving, a unique alternative to Anki.
+<!--
+<div align="center">
+  <img src="myoso.png" alt="Myoso preview" width="400" />
+</div>-->
 
-<h3>
-<pre>
-//-----------------------------------------\\
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       Plugins & Packages       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-\\-----------------------------------------//
-</pre>
-</h3>
-<h4>1. <a href="https://github.com/vmargb/arrow.el">arrow.el</a></h4>
-<table>
-   <tr>
-      <td width="70%">
-         An Emacs package implementation of arrow.nvim, designed to provide global, per-project, and per-buffer bookmarks that are fully isolated and persistent in memory.
-      </td>
-      <td width="30%">
-         <img align=center src="arrow-project.png" alt="Preview of arrow.el" />
-      </td>
-   </tr>
-</table>
+---
 
-<h4>2. <a href="https://github.com/vmargb/project-x">project-x</a></h4>
-<table>
-   <tr>
-      <td width="70%">
-         Ehancements to Emacs' built in project.el library that lets you write and persist project sessions to disk and dynamically restore them just as you left them.
-      </td>
-      <td width="30%">
-         <img align=center src="project-x.gif" alt="Preview of project-x" />
-      </td>
-   </tr>
-</table>
+## Plugins & Packages
 
-<h4>3. <a href="https://github.com/vmargb/lookahead">Lookahead</a></h4>
-<table>
-   <tr>
-      <td width="70%">
-         A Firefox extension to help you find any website with its own scoring algorithm and a floating "picker" to quick-switch between your links.
-      </td>
-      <td width="30%">
-         <img align=center src="lookahead.gif" alt="Preview of Lookahead" />
-      </td>
-   </tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**arrow.el**](https://github.com/vmargb/arrow.el) | Global/per-project & buffer bookmarks for Emacs, inspired by arrow.nvim | Emacs Lisp |
+| [**project-x**](https://github.com/vmargb/project-x) | Persist and restore Emacs project sessions in memory | Emacs Lisp |
+| [**leitner.el**](https://github.com/vmargb/leitner.el) | Org-mode reviewing tool using the Leitner box system & sm-2 algorithm | Emacs Lisp |
+| [**Lookahead**](https://github.com/vmargb/lookahead) | Firefox extension with scoring algorithm for quick link switching | JavaScript |
+| [**funcy.nvim**](https://github.com/vmargb/funcy.nvim) | Auto-generate function/class declarations using LSP + regex | Lua, Neovim |
 
-<h4>4. <a href="https://github.com/vmargb/funcy.nvim">funcy.nvim</a></h4>
-<table>
-   <tr>
-      <td width="70%">
-         A neovim plugin that uses LSP and Regex to dynamically create function and class declarations for you. Similar to the same feature in Jetbrains IDE's
-      </td>
-      <td width="30%">
-         <img align=center src="funcy.gif" alt="Preview of funcy.nvim" />
-      </td>
-   </tr>
-</table>
+---
 
-<h3>
-<pre>
-//----------------------------------\\
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dotfiles & Configurations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-\\----------------------------------//
-</pre>
-</h3>
+## Dotfiles & Configurations
 
-<h4>1. <a href="https://github.com/vmargb/nixos-config">NixOS (w/ Flakes & HM)</a></h4>
-<table>
-   <tr>
-      <td width="70%">
-         My dendritic NixOS configuration using Flakes and Home-Manager.
-      </td>
-      <td width="30%">
-         <img align=center src="" alt="Preview of NixOS" />
-      </td>
-   </tr>
-</table>
+### 🐧 [NixOS Config](https://github.com/vmargb/nixos-config)
+> Dendritic NixOS configuration using Flakes and Home Manager.
 
-<br  />
+---
 
-<h3>
-<pre>
-//------------------------\\
-|&nbsp;&nbsp;&nbsp;Old College Projects&nbsp;&nbsp;&nbsp;|
-\\------------------------//
-</pre>
-</h3>
+## Archive: College Projects
+Older hobby and university projects are available on my [legacy profile](https://github.com/physicsKnight).
 
-<p>In my own time I've taken up several hobby projects, most of which are old College projects.</p>
-<p>You can find some of these projects over at my older GitHub profile:</p>
+---
 
-<ul>
-   <li><a href="https://github.com/physicsKnight"><strong>Old GitHub</strong></a></li>
-</ul>
+<p align="center">
+  <a href="https://ko-fi.com/vmargb">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png" height="40" alt="Support on Ko-fi">
+  </a>
+</p>
+
+<div align="center">
+  <sub>Built with ❤️ and Emacs</sub>
+</div>
