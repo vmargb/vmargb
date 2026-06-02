@@ -9,10 +9,6 @@
     <img src="https://img.shields.io/badge/editor-Emacs+%2B%20Evil-9cf?style=flat-square&logo=gnuemacs" alt="Editor">
     <img src="https://img.shields.io/badge/interests-FP%20%7C%20Lambda%20Calculus-purple?style=flat-square" alt="Interests">
   </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vmargb&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  </p>
 </div>
 
 ---
@@ -20,7 +16,7 @@
 ## Currently Maintained Projects
 
 ### [Parts of Speech](https://github.com/vmargb/parts-of-speech)
-> A non-linear voice-over app written in **Rust** that uses a recording booth workflow, letting you record audio chunk-by-chunk.
+> Non-linear voice-over app written in **Rust** that uses a Talkback workflow, letting you record takes chunk-by-chunk.
 
 <!--
 <div align="center">
@@ -28,7 +24,7 @@
 </div>-->
 
 ### [Myoso](https://github.com/vmargb/Myoso)
-> A TUI-based spaced repetition flashcard app with chain-of-thought problem solving, a unique alternative to Anki.
+> TUI-based spaced repetition flashcard app with chain-of-thought problem solving, a unique alternative to Anki.
 <!--
 <div align="center">
   <img src="myoso.png" alt="Myoso preview" width="400" />
@@ -65,7 +61,3 @@ Older hobby and university projects are available on my [legacy profile](https:/
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png" height="40" alt="Support on Ko-fi">
   </a>
 </p>
-
-<div align="center">
-  <sub>Built with ❤️ and Emacs</sub>
-</div>
