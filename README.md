@@ -24,7 +24,7 @@
 </div>-->
 
 ### [Myoso](https://github.com/vmargb/Myoso)
-> TUI-based spaced repetition flashcard app with chain-of-thought problem solving, a unique alternative to Anki.
+> TUI-based spaced repetition flashcard app with a new step-by-step problem solving approach, a unique alternative to Anki.
 <!--
 <div align="center">
   <img src="myoso.png" alt="Myoso preview" width="400" />
