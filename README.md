@@ -1,6 +1,6 @@
 <div align="center">
   <h1>vmargb</h1>
-  <!--<img src="home.gif">-->
+  <img src="home.gif">
   <p>
     <em>Computer Science & AI graduate • Functional programming enthusiast • Open-source software</em>
   </p>
