@@ -1,9 +1,9 @@
 <div align="center">
   <h1>vmargb</h1>
+  <!--<img src="home.gif">-->
   <p>
     <em>Computer Science & AI graduate • Functional programming enthusiast • Open-source software</em>
   </p>
-  
   <p>
     <img src="https://img.shields.io/badge/learning-Haskell%20%7C%20Rust%20%7C%20Go-blue?style=flat-square" alt="Learning">
     <img src="https://img.shields.io/badge/editor-Emacs+%2B%20Evil-9cf?style=flat-square&logo=gnuemacs" alt="Editor">
