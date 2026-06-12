@@ -2,7 +2,7 @@
   <h1>vmargb</h1>
   <img src="home4.gif">
   <p>
-    <em>Computer Science & AI graduate • Creative coding enthusiast • Open-source software</em>
+    <em>Computer Science & AI grad • Creative coding enthusiast • Open-source software</em>
   </p>
   <p>
     <img src="https://img.shields.io/badge/learning-Haskell%20%7C%20Rust%20%7C%20Go-blue?style=flat-square" alt="Learning">
