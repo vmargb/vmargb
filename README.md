@@ -13,7 +13,7 @@
 
 ---
 
-## Currently Maintained Projects
+## Current Projects
 
 ### [Parts of Speech](https://github.com/vmargb/parts-of-speech)
 > Non-linear voice-over app written in **Rust** that uses a Talkback workflow, letting you record takes chunk-by-chunk.
