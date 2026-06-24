@@ -13,10 +13,23 @@
 
 ---
 
-## Current Projects
+## Packages / Plugins
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**arrow.el**](https://github.com/vmargb/arrow.el) | Global/per-project & buffer bookmarks for Emacs, inspired by arrow.nvim | Emacs Lisp |
+| [**project-x**](https://github.com/vmargb/project-x) | Persist and restore Emacs project sessions in memory | Emacs Lisp |
+| [**leitner.el**](https://github.com/vmargb/leitner.el) | Org-mode reviewing tool with the Leitner box system + sm-2 | Emacs Lisp |
+| [**Elline**](https://github.com/vmargb/elline) | Minimal and fast, highly optimised status line for Emacs | Emacs Lisp |
+| [**funcy.nvim**](https://github.com/vmargb/funcy.nvim) | Auto-generate function/class declarations using LSP + regex | Lua, Neovim |
+| [**Lookahead**](https://github.com/vmargb/lookahead) | Firefox extension for quick searching & link switching | JavaScript |
+
+---
+
+## Other Projects
 
 ### [Parts of Speech](https://github.com/vmargb/parts-of-speech)
-> Non-linear voice-over app written in **Rust** that uses a Talkback workflow, letting you record takes chunk-by-chunk.
+> Non-linear voice recording app written in **Rust** that lets you record takes in controllable segments.
 
 <!--
 <div align="center">
@@ -24,23 +37,11 @@
 </div>-->
 
 ### [Myoso](https://github.com/vmargb/Myoso)
-> TUI-based spaced repetition flashcard app with a new step-by-step problem solving approach, a unique alternative to Anki.
+> TUI spaced-repetition flashcard app with a **new** *step-by-step* problem solving approach, a unique alternative to Anki.
 <!--
 <div align="center">
   <img src="myoso.png" alt="Myoso preview" width="400" />
 </div>-->
-
----
-
-## Plugins & Packages
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**arrow.el**](https://github.com/vmargb/arrow.el) | Global/per-project & buffer bookmarks for Emacs, inspired by arrow.nvim | Emacs Lisp |
-| [**project-x**](https://github.com/vmargb/project-x) | Persist and restore Emacs project sessions in memory | Emacs Lisp |
-| [**leitner.el**](https://github.com/vmargb/leitner.el) | Org-mode reviewing tool using the Leitner box system & sm-2 algorithm | Emacs Lisp |
-| [**Lookahead**](https://github.com/vmargb/lookahead) | Firefox extension with scoring algorithm for quick link switching | JavaScript |
-| [**funcy.nvim**](https://github.com/vmargb/funcy.nvim) | Auto-generate function/class declarations using LSP + regex | Lua, Neovim |
 
 ---
 
