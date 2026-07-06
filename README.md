@@ -15,7 +15,6 @@
 
 ## Packages / Plugins
 
-### **Emacs Packages**
 - **[arrow.el](https://github.com/vmargb/arrow.el)** – Global/per-project & buffer bookmarks for Emacs, inspired by arrow.nvim.
 - **[project-x](https://github.com/vmargb/project-x)** – Persist and restore Emacs project sessions in memory.
 - **[leitner.el](https://github.com/vmargb/leitner.el)** – Org-mode reviewing tool with the Leitner box system + SM-2.
