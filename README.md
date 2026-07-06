@@ -1,13 +1,13 @@
 <div align="center">
   <h1>vmargb</h1>
-  <img src="home4.gif">
+  <img src="home4.gif" alt="Animated header" />
   <p>
-    <em>Computer Science & AI grad • Creative coding enthusiast • Open-source software</em>
+    <em>CS & AI grad • I write packages for fun • Open-source</em>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/learning-Haskell%20%7C%20Rust%20%7C%20Go-blue?style=flat-square" alt="Learning">
-    <img src="https://img.shields.io/badge/editor-Emacs+%2B%20Evil-9cf?style=flat-square&logo=gnuemacs" alt="Editor">
-    <img src="https://img.shields.io/badge/interests-FP%20%7C%20Lambda%20Calculus-purple?style=flat-square" alt="Interests">
+    <strong>Learning:</strong> Haskell, Rust, Go •
+    <strong>Editor:</strong> Emacs (w/ Evil) •
+    <strong>Interests:</strong> FP, Creative Coding
   </p>
 </div>
 
@@ -15,14 +15,13 @@
 
 ## Packages / Plugins
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**arrow.el**](https://github.com/vmargb/arrow.el) | Global/per-project & buffer bookmarks for Emacs, inspired by arrow.nvim | Emacs Lisp |
-| [**project-x**](https://github.com/vmargb/project-x) | Persist and restore Emacs project sessions in memory | Emacs Lisp |
-| [**leitner.el**](https://github.com/vmargb/leitner.el) | Org-mode reviewing tool with the Leitner box system + sm-2 | Emacs Lisp |
-| [**Elline**](https://github.com/vmargb/elline) | Minimal and fast, highly optimised status line for Emacs | Emacs Lisp |
-| [**funcy.nvim**](https://github.com/vmargb/funcy.nvim) | Auto-generate function/class declarations using LSP + regex | Lua, Neovim |
-| [**Lookahead**](https://github.com/vmargb/lookahead) | Firefox extension for quick searching & link switching | JavaScript |
+### **Emacs Packages**
+- **[arrow.el](https://github.com/vmargb/arrow.el)** – Global/per-project & buffer bookmarks for Emacs, inspired by arrow.nvim.
+- **[project-x](https://github.com/vmargb/project-x)** – Persist and restore Emacs project sessions in memory.
+- **[leitner.el](https://github.com/vmargb/leitner.el)** – Org-mode reviewing tool with the Leitner box system + SM-2.
+- **[Elline](https://github.com/vmargb/elline)** – Minimal and fast, highly optimized status line for Emacs.
+- **[funcy.nvim](https://github.com/vmargb/funcy.nvim)** – Auto-generate function/class declarations using LSP + regex.
+- **[Lookahead](https://github.com/vmargb/lookahead)** – Firefox extension for quick searching & link switching.
 
 ---
 
@@ -45,7 +44,7 @@
 
 ---
 
-## Dotfiles & Configurations
+## Dotfiles & Configs
 
 ### 🐧 [NixOS Config](https://github.com/vmargb/nixos-config)
 > Dendritic NixOS configuration using Flakes and Home Manager.
