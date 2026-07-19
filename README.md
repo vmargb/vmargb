@@ -17,7 +17,7 @@
 
 - **[arrow.el](https://github.com/vmargb/arrow.el)** – Seamless unified bookmarking system for Emacs, inspired by arrow.nvim.
 - **[project-x](https://github.com/vmargb/project-x)** – Persist and restore Emacs project.el sessions in memory with tab isolation.
-- **[leitner.el](https://github.com/vmargb/leitner.el)** – Review your Org-mode notes inside Emacs with the Leitner box system.
+- **[resurface.el](https://github.com/vmargb/leitner.el)** – Resurface your Org-mode notes inside Emacs using the Leitner box system.
 - **[region-pin](https://github.com/vmargb/region-pin)** - Compact code snippets pinned at the top of your window. 
 - **[Elline](https://github.com/vmargb/elline)** – Minimal and fast, highly optimized status line for Emacs.
 - **[funcy.nvim](https://github.com/vmargb/funcy.nvim)** – Auto-generate function/class declarations in Neovim using LSP + regex.
